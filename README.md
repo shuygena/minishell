@@ -2,9 +2,9 @@
 :computer: My own bash
 
 For compile programm run:
-
+```
 make
-
+```
 This project goals:  
 • Handle ’ (single quote) which should prevent the shell from interpreting the metacharacters in the quoted sequence.  
 • Handle " (double quote) which should prevent the shell from interpreting the metacharacters in the quoted sequence except for $ (dollar sign).  
