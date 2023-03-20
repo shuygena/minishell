@@ -13,7 +13,7 @@ git clone https://github.com/shuygena/minishell minishell
 ```
 Go to directory:
 ```
-cd minishell
+cd minishell/minishel\ v01/
 ```
 For compile program run:   
 ```
